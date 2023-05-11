@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+  <Compile Remove = "ex1.cs" />
+  <Compile Remove = "ex2.cs" />
+  <Compile Remove = "ex3.cs" />
+  <Compile Remove = "ex4.cs" />
+  <Compile Remove = "ex5.cs" />
+  <Compile Remove = "ex6.cs" />
+  <Compile Remove = "ex7.cs" />
+  <Compile Remove = "ex8.cs" />
+  <Compile Remove = "ex9.cs" />
+  <Compile Remove = "ex10.cs" />
+  <Compile Remove = "ex11.cs" />
+  <Compile Remove = "ex12.cs" />
+  <Compile Remove = "ex13.cs" />
+  <Compile Remove = "ex14.cs" />
+  <Compile Remove = "ex15.cs" />
+  <Compile Remove = "ex16.cs" />
+  <Compile Remove = "ex17.cs" />
+  <Compile Remove = "ex18.cs" />
+  <Compile Remove = "Method\ex1.cs" />
+  <Compile Remove = "Method\ex2.cs" />
+  <Compile Remove = "Method\ex3.cs" />
+  <Compile Remove = "Method\ex4.cs" />
+  <Compile Remove = "Method\ex5.cs" />
+  <Compile Remove = "Method\ex6.cs" />
+  
+  
+  </ItemGroup>
+  
+
+</Project>
