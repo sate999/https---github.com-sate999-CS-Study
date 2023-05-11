@@ -33,7 +33,9 @@
   <Compile Remove = "Method\ex4.cs" />
   <Compile Remove = "Method\ex5.cs" />
   <Compile Remove = "Method\ex6.cs" />
-  
+  <Compile Remove = "Method\ex7.cs" />  
+  <Compile Remove = "Array\ex1.cs" />
+  <Compile Remove = "Array\ex2.cs" />
   
   </ItemGroup>
   
